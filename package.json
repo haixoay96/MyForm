@@ -1,0 +1,31 @@
+{
+  "name": "myform",
+  "version": "1.0.0",
+  "description": "form for learing and sharing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haixoay96/MyForm.git"
+  },
+  "keywords": [
+    "form",
+    "nodejs",
+    "chat",
+    "callvideo"
+  ],
+  "author": "Nguyen Duc Linh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haixoay96/MyForm/issues"
+  },
+  "homepage": "https://github.com/haixoay96/MyForm#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.12.0",
+    "socket.io": "^1.7.2"
+  }
+}
